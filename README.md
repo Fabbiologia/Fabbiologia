@@ -1,4 +1,5 @@
-# 🌊 Fabio Favoretto, PhD - Marine Conservationist & Data Scientist
+# 🌊 Fabio Favoretto, PhD
+# Marine Numerical Ecologist
 
 **Welcome to my GitHub!**  
 I am a numerical ecologist and marine conservationist passionate about blending cutting-edge data science with ecological insights to drive meaningful conservation outcomes.
@@ -36,7 +37,7 @@ I am a numerical ecologist and marine conservationist passionate about blending 
 ### 🗺️ [Atlas Aquatica](https://oceandecade.org/actions/atlas-aquatica/)
 Empowering the scuba diving industry for marine conservation and sustainable development.
 
-![Dive](https://media.giphy.com/media/xUOwGmVJnjCzLXL3sk/giphy.gif](https://media.giphy.com/media/xUOxeQWMpDf5NpZztC/giphy.gif)
+![Dive](https://media.giphy.com/media/xUOwGmVJnjCzLXL3sk/giphy.gif)
 
 ### 🌐 [Revillagigedo Monitoring App](https://fabio-favoretto.shinyapps.io/revillagigedo-app/)
 Interactive platform for ecological monitoring of one of the largest marine protected areas in North America.
