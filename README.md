@@ -36,7 +36,7 @@ I am a numerical ecologist and marine conservationist passionate about blending 
 ### 🗺️ [Atlas Aquatica](https://oceandecade.org/actions/atlas-aquatica/)
 Empowering the scuba diving industry for marine conservation and sustainable development.
 
-![Dive](https://media.giphy.com/media/xUOwGmVJnjCzLXL3sk/giphy.gif)
+![Dive](https://media.giphy.com/media/xUOwGmVJnjCzLXL3sk/giphy.gif](https://media.giphy.com/media/xUOxeQWMpDf5NpZztC/giphy.gif)
 
 ### 🌐 [Revillagigedo Monitoring App](https://fabio-favoretto.shinyapps.io/revillagigedo-app/)
 Interactive platform for ecological monitoring of one of the largest marine protected areas in North America.
@@ -48,9 +48,7 @@ Analyze Vessel Monitoring Systems (VMS) data for fisheries management and spatia
 
 ## 📊 Publications & Impact
 
-![Books](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
-
-- Published in high-impact journals: *Science Advances, Frontiers in Marine Science, Ecological Indicators.*
+- Published in high-impact journals: *[Science Advances, Frontiers in Marine Science, Ecological Indicators.](https://scholar.google.com/citations?user=10ioEq4AAAAJ&hl=en)*
 - Media Coverage: Featured in *The Guardian, Time Magazine, Mongabay,* and others for impactful conservation research.
 
 ---
@@ -70,7 +68,6 @@ Analyze Vessel Monitoring Systems (VMS) data for fisheries management and spatia
 
 I'm always open to new collaborations that leverage data science and ecological research to make a difference. Feel free to reach out or explore my repositories!
 
-![Handshake](https://media.giphy.com/media/QpqAWrUoJe1NJH3g5J/giphy.gif)
 
 <!---
 Fabbiologia/Fabbiologia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
