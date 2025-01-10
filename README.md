@@ -3,7 +3,7 @@
 **Welcome to my GitHub!**  
 I am a numerical ecologist and marine conservationist passionate about blending cutting-edge data science with ecological insights to drive meaningful conservation outcomes.
 
-![Ocean Waves](https://giphy.com/embed/3og0IwoOyuY3ug4xaM)
+![Ocean Waves](https://media.giphy.com/media/l0ExpMzowNRkPNnvW/giphy.gif)
 
 ---
 
