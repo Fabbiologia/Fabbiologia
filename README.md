@@ -37,8 +37,6 @@ I am a numerical ecologist and marine conservationist passionate about blending 
 ### 🗺️ [Atlas Aquatica](https://oceandecade.org/actions/atlas-aquatica/)
 Empowering the scuba diving industry for marine conservation and sustainable development.
 
-![Dive](https://media.giphy.com/media/xUOwGmVJnjCzLXL3sk/giphy.gif)
-
 ### 🌐 [Revillagigedo Monitoring App](https://fabio-favoretto.shinyapps.io/revillagigedo-app/)
 Interactive platform for ecological monitoring of one of the largest marine protected areas in North America.
 
@@ -55,8 +53,6 @@ Analyze Vessel Monitoring Systems (VMS) data for fisheries management and spatia
 ---
 
 ## 🌍 Connect with Me
-
-![Connect](https://media.giphy.com/media/26FPGvHRJUP7FK2s8/giphy.gif)
 
 - [Google Scholar](https://scholar.google.com/citations?user=10ioEq4AAAAJ&hl=en)  
 - [ResearchGate](https://www.researchgate.net/profile/Fabio-Favoretto)  
